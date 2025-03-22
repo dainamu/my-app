@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mydevops1218/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fdainamu.my-app?branchName=main)](https://dev.azure.com/mydevops1218/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=5&branchName=main)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
