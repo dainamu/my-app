@@ -13,7 +13,11 @@
   padding: 120px 24px 160px 24px;
 }
 .clockdisp {
-  background: #ff3456;
+  font-family: "Bungee";
+}
+.hhmm {
+  font-size: 10rem;
+  line-height: 1;
 }
 .main::before {
   /* background: #aaaa00; */
